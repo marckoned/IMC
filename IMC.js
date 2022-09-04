@@ -13,7 +13,7 @@ function imc(Altura, Peso) {
 
 }
 
-let nome = 'Marcone'
-const altura1 = 1.79
-const peso1 = 60
-imc(altura1, peso1)
+let nome = 'SeuNome' //atribua seu nome caso queira
+const altura1 = 0 //atribua a sua altura para ser feito o calculo do IMC
+const peso1 = 0 //atribua o seu peso para ser feito o calculo do IMC
+imc(altura1, peso1) //CTRL+ALT+N para executar o code e imprimir o resultado no terminal.
